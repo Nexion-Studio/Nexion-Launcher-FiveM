@@ -12,9 +12,11 @@
 
 ## Fonctionnalités
 
-- **Liste de serveurs FiveM** : joueurs, ping, état en direct, favoris, recherche.
+- **Liste de serveurs FiveM** : joueurs, ping, état en direct, favoris, recherche, vue compacte ou détaillée, filtres et étiquettes (Récents, Dernière connexion…).
 - **Connexion en un clic** : FiveM se lance et se connecte tout seul au serveur choisi.
-- **Ajout simple** : par `IP:port` ou par lien `cfx.re/join/…`.
+- **Ajout simple** : par `IP:port` ou par lien `cfx.re/join/…` ; nom et logo récupérés automatiquement.
+- **Plusieurs FiveM ?** Choisissez le dossier à lancer dans Paramètres → Jeu (détection automatique par défaut).
+- **Favoris** accessibles d'un clic droit sur l'icône de la zone de notification.
 - **Ultra léger** : se réduit dans la zone de notification et libère sa mémoire.
 - **Démarrage avec Windows** (optionnel), thème sombre, français / anglais.
 - **Mises à jour automatiques**, signées.
